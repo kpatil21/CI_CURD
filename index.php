@@ -1,6 +1,7 @@
 <?php
 /**
- * CodeIgniter
+ * CodeIgniter Hello Welcome to Index with Git1
+ * My second message
  *
  * An open source application development framework for PHP
  *
