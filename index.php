@@ -2,6 +2,7 @@
 /**
  * CodeIgniter Hello Welcome to Index with Git1
  * My second message
+ * my third message = "new git"
  *
  * An open source application development framework for PHP
  *
